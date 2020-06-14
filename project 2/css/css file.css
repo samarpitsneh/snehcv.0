@@ -1,0 +1,165 @@
+body{
+  margin: 0;
+  background-color: white;
+  text-align: center;
+}
+h1{
+  margin-top:0;
+margin-bottom: 0;
+  position: relative;
+  bottom: 50px;
+  font-family:  'Bungee Shade', cursive;
+  font-size: 90px;
+  color:  #3797a4;
+    font-weight: bolder;
+}
+h3{
+  font-family: 'Bungee Shade', cursive;
+  color: #45b29a;
+}
+h2{
+  color: #2b580c;
+}
+.des{
+  font-size: 30px;
+  position: relative;
+  bottom: 50px;
+  margin-top: 0;
+  color: #3797a4;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+   font-weight: 300;
+}
+p{
+  font-size: 18px;
+  position: relative;
+  bottom: 50px;
+  margin-top: 0;
+
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  line-height: 2;
+  color:  #545454;
+
+}
+.top-container{
+  background-color: #e0ebe8;
+
+}
+img{ background-color:#e0ebe8;
+ }
+
+.bottom-cloud{
+
+    height:200px;
+    width:200px;
+    position: absolute;
+    top: 345px;
+    left: 220px;
+
+}
+.top-cloud{
+    height:200px;
+    width:200px;
+  position: relative;
+  left: 380px;
+  top: 340px;
+    }
+
+.boy{
+     height: 200px;
+      margin-top: 20px;
+      border-radius: 50%;
+}
+.profiledes{
+        margin-top: 20px;
+      }
+
+        hr{
+          border: dotted #545454 6px;
+          border-bottom:none;
+          width: 6%;
+          margin: 0 auto 50px auto;
+        }
+
+.middle-container{
+  background-color: white;
+}
+
+.skill-row{
+    margin: auto;
+}
+.killsdesh{
+  margin-top: 0;
+}
+.skillsdesp{
+    margin-top: 10px;
+}
+
+.web-skills{
+  height: 200px;
+background-color: white;
+}
+.pic-click{
+  height: 200px;
+background-color: white;
+}
+.photoshop{
+  height: 200px;
+  background-color: white;
+}
+
+.contactdes{
+  margin-bottom: 0;
+}
+
+.bottom-container{
+  background-color: #e0ebe8;
+}
+.copyright{
+  position: relative;
+  top: 0;
+  margin-bottom: 0;
+  margin-top: 80px;
+font-size: 15px;
+
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #1bbcc2;
+	background:linear-gradient(to bottom, #45c3c7 5%, #2aa7bd 100%);
+	background-color:#45c3c7;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:18px;
+  margin-top: 15px;
+
+	padding:6px 17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #286266;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #2aa7bd 5%, #45c3c7 100%);
+	background-color:#2aa7bd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  padding-top: 40px;
+}
+.footer-linkl{
+  margin-right: 20px;
+  color: #3797a4;
+    font-size: 20px;
+}
+.footer-linkc{
+  color: #3797a4;
+    font-size: 20px;
+}
+.footer-linkr{
+  margin-left: 20px;
+  color: #3797a4;
+    font-size: 20px;
+}
